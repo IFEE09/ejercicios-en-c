@@ -18,7 +18,15 @@ int main() {
         numero++;
     }
 
-     printf("j vale %d con el ciclo while\n", numero);
+    printf("j vale %d con el ciclo while\n", numero);
+
+    numero = 0; //reiniciando número de nuevo
+
+    do{
+        numero++;
+    } while(numero < 10); 
+    
+    printf("j vale %d con el ciclo do-while\n", numero);
 
     return 0;
 }
