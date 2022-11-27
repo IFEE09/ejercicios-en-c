@@ -1,0 +1,1 @@
+Pide el nombre del usuario por consola, utilizando scanf y luego imprimerlo con printf, saludándolo. 
