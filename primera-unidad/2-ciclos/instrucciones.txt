@@ -1,0 +1,1 @@
+Incrementar una variable entera j desde 0 hasta n y luego mostrar el resultado. Hacerlo utilizando 3 bucles diferentes.
